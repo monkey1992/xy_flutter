@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'ChildPage.dart';
+import 'child_page.dart';
 
 void main() {
   runApp(MyApp());
