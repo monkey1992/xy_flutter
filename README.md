@@ -1,2 +1,2 @@
-# XyFlutter
-A Demo used to learn Flutter/Dart
+# xy_flutter
+A demo for learning flutter
