@@ -9,7 +9,7 @@
 
 ### 2.Flutter for iOS
 
-### 3.Flutter Web
+### 3.Flutter for Web
 
 #### 相关文章：
 
